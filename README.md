@@ -35,7 +35,7 @@
 * Autoencoders [[notebook](04-CV/07-AutoEncodersGAN/AutoencodersTF.ipynb)], [[noisy digits](04-CV/07-AutoEncodersGAN/NoisyDigits.ipynb), [[video](https://youtu.be/-36H-NNJMTw)]
 * GANs [[notebook](04-CV/07-AutoEncodersGAN/GANTF.ipynb), [[seminar](04-CV/07-AutoEncodersGAN/Segmentation_AE_GAN.ipynb)], [[video](https://youtu.be/M4na17KhAAY)]
 
-** Обработка естественного языка**
+**Обработка естественного языка**
 * Введение в NLP [[notebook](05-NLP/01-IntroNLP/MeaningCloud.ipynb)], [[lab](05-NLP/01-IntroNLP/Lab/README.md)]
 * BoW, TF-IDF [[notebook](05-NLP/02-BoW-TFIDF/TextRepresentation.ipynb)], [[lab](05-NLP/02-BoW-TFIDF/Lab/README.md)]
 * Embeddings [[notebook](05-NLP/03-Embeddings/Embeddings.ipynb)], [[CBoW](05-NLP/03-Embeddings/CBoW.ipynb)], [[lab](05-NLP/03-Embeddings/Lab/README.md)]
