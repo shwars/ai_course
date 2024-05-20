@@ -41,3 +41,4 @@
 * Embeddings [[notebook](05-NLP/03-Embeddings/Embeddings.ipynb)], [[CBoW](05-NLP/03-Embeddings/CBoW.ipynb)], [[lab](05-NLP/03-Embeddings/Lab/README.md)]
 * Рекуррентные сети [[notebook](05-NLP/04-RNNs/RNN.ipynb)], [[генеративные сети](05-NLP/04-RNNs/GenerativeRNN.ipynb)], [[NER](05-NLP/04-RNNs/NER.ipynb)], [[lab](05-NLP/04-RNNs/Lab/README.md)]
 * Трансформеры [[notebook](05-NLP/05-Transformers/Transformers.ipynb)], [[HuggingFace](05-NLP/05-Transformers/HuggingFace.ipynb)]
+* Мультимодальные модели [[Stable Diffusion](05-NLP/06-MultiModal/StableDiffusionExplore.ipynb)]
